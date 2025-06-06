@@ -18,7 +18,7 @@ The password is stored in the binary as an ASCII array, and the flag is encoded 
 
 ---
 
-![Radare2 Screenshot](Screenshot 2025-06-06 210022.png)
+  <img src="https://github.com/FajrJauhar/CRACKme/Screenshot 2025-06-06 210022.png" height="550px" 
 
 ## 🎯 Objective
 
