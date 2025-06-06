@@ -17,9 +17,9 @@ if (strcmp(argv[1], pass) == 0) {
 The password is stored in the binary as an ASCII array, and the flag is encoded in Base64.
 
 ---
-
+<p align="center">
   <img src="https://github.com/FajrJauhar/CRACKme/Screenshot 2025-06-06 210022.png" height="550px" 
-
+</p>
 ## 🎯 Objective
 
 - Reverse engineer the binary without access to the source code.
